@@ -7,6 +7,8 @@ and learning programming through small projects on the side.
 </div>
 <br>
 
+<p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=brighver&label=Profile%20views&color=282828&style=flat" alt="umrange" /> </div> </p>
+
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/822458459160838145.png">
 </p>
@@ -19,5 +21,3 @@ and learning programming through small projects on the side.
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 </p>
-
-<p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=brighver&label=Profile%20views&color=282828&style=flat" alt="umrange" /> </div> </p>
