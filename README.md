@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/822458459160838145.png">
-</p>
-
 <h1 align="center">
   <b>brighver</b>
 </h1>
@@ -21,6 +17,10 @@ and learning programming through small projects on the side.
 </p>
 
 <p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=brighver&label=Profile%20views&color=282828&style=flat" alt="umrange" /> </div> </p>
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/822458459160838145.png">
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
