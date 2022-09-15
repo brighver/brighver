@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/852610618300825661.png">
+  <img src="https://discord.c99.nl/widget/theme-3/822458459160838145.png">
 </p>
 
 <h1 align="center">
