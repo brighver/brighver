@@ -1,6 +1,3 @@
-<h1 align="center">
-  <b>brighver</b>
-</h1>
 <div align="center">
 Hey there! I'm brighver, a student currently living in Jakarta, Indonesia.</br>
 and learning programming through small projects on the side.
